@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Natasha </h1>
 <p align="center">
-  📊 2nd Year Data Science Student | 💻 Aspiring Full-Stack & Data Developer | 🚀 Always Learning
+  📊 3rd Year Data Science Student | 💻 Aspiring Full-Stack & Data Developer | 🚀 Always Learning
 </p>
 
 ---
